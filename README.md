@@ -8,6 +8,8 @@ All outputs are provided for verification and reproducibility purposes.
 
 For detailed methodology and evaluation, refer to the associated research paper.
 
+All screenshots correspond to individual journalists used in evaluation and are named accordingly for clarity.
+
 ## Repository Contents
 - Sample outputs for 10 journalists used in evaluation
 - Screenshots demonstrate structured profile generation
