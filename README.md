@@ -7,3 +7,10 @@ The results included here demonstrate the effectiveness of the pipeline across m
 All outputs are provided for verification and reproducibility purposes.
 
 For detailed methodology and evaluation, refer to the associated research paper.
+
+## Repository Contents
+- Sample outputs for 10 journalists used in evaluation
+- Screenshots demonstrate structured profile generation
+
+## Note
+This repository contains only outputs for verification purposes (no source code included).
